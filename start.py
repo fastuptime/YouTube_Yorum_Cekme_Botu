@@ -15,7 +15,7 @@ log('Bu program Can Tarafından Yapılmıştır.')
 log('https://fastuptime.com ve https://speedsmm.com üzerinden bize ulaşabilirsiniz.')
 log('Program başlatıldı')
 
-vice_url = 'https://www.youtube.com/watch?v=pIVG3mDL9RI&ab_channel=MangaVEVO' # Ürün URL HEPSİBURADA
+vice_url = 'https://www.youtube.com/watch?v=pIVG3mDL9RI&ab_channel=MangaVEVO' # Url
 
 try:
     driver.get(vice_url)
