@@ -15,7 +15,7 @@ log('Bu program Can Tarafından Yapılmıştır.')
 log('https://fastuptime.com ve https://speedsmm.com üzerinden bize ulaşabilirsiniz.')
 log('Program başlatıldı')
 
-vice_url = 'https://www.youtube.com/watch?v=pIVG3mDL9RI&ab_channel=MangaVEVO' # Url
+vice_url = input("Video Linki: ") # Url
 
 try:
     driver.get(vice_url)
